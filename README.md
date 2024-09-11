@@ -1,4 +1,4 @@
-# CustomerChurnPrediction
+# Customer Churn Prediction
 This project aims to predict if a customer will exit the Company Tesco (churn) or not (non-churn) given 20 attributes such as gender, senior citizen status, contract type, payment method, etc. 
 
 Customer Churn prediction has significant business relevance as customer acquisition is more complex and resource-heavy when compared to customer retention. Analysing customer behaviour can help organisations establish personalised customer loyalty and retention programs. 
